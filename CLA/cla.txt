@@ -1,0 +1,10 @@
+time:                   10  A=13396 B=14449 Cin=0 Sum=    x Cout=x PG=x GG=x
+time:                   20  A= 4409 B=24339 Cin=0 Sum=27845 Cout=0 PG=0 GG=0
+time:                   30  A=12605 B= 2605 Cin=0 Sum=28748 Cout=0 PG=0 GG=1
+time:                   40  A=28677 B=  434 Cin=0 Sum=15210 Cout=0 PG=0 GG=1
+time:                   50  A=17009 B=19677 Cin=0 Sum=29111 Cout=0 PG=0 GG=0
+time:                   60  A=14966 B=23245 Cin=0 Sum=36686 Cout=0 PG=0 GG=1
+time:                   70  A= 1277 B= 1260 Cin=0 Sum=38211 Cout=0 PG=0 GG=1
+time:                   80  A= 8937 B= 8278 Cin=0 Sum= 2537 Cout=0 PG=0 GG=1
+time:                   90  A= 8549 B=22474 Cin=0 Sum=17215 Cout=0 PG=0 GG=1
+time:                  100  A=18533 B=27607 Cin=0 Sum=31023 Cout=0 PG=0 GG=1
